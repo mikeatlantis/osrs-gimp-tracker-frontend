@@ -1,1 +1,1 @@
-const CONFIG_BACKEND_URL = 'https://leuketracker.herokuapp.com:3000'
+const CONFIG_BACKEND_URL = 'https://leuketracker.herokuapp.com/'
